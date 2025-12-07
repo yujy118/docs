@@ -73,7 +73,7 @@
               },
               {
                 "group": "채널별 특이사항",
-                "expanded": true,
+                "expanded": false,
                 "pages": [
                   "ko/channels/agoda",
                   "ko/channels/tripdotcom",
