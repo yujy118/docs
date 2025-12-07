@@ -64,17 +64,23 @@
                 "group": "채널",
                 "expanded": false,
                 "pages": [
-                      "ko/channels/channel-setting"
+              {
+                "group": "채널 설정",
+                "expanded": false,
+                "pages": [
+                  "ko/channels/channel-setting"
+                ]
+              },
+              {
+                "group": "채널별 특이사항",
+                "expanded": true,
+                "pages": [
+                  "ko/channels/agoda",
+                  "ko/channels/tripdotcom",
+                  "ko/channels/naver"
                     ]
-                  },
-                  {
-                    "group": "채널 연결",
-                    "expanded": true,
-                    "pages": [
-                      "ko/channels/agoda",
-                      "ko/channels/tripdotcom",
-                      "ko/channels/naver"
-                    ]
+                  }
+                ]
               },
               {
                 "group": "연동 서비스",
