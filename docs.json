@@ -73,7 +73,7 @@
                   },
                   {
                     "group": "채널 연결",
-                    "expanded": false,
+                    "expanded": true,
                     "pages": [
                       "ko/channels/agoda",
                       "ko/channels/tripdotcom",
@@ -111,14 +111,6 @@
             "tab": "자주 묻는 질문",
             "groups": [
               {
-                "group": "사용 방법",
-                "expanded": false,
-                "pages": [
-                  "ko/faq/usage/use-on-mobile",
-                  "ko/faq/usage/cancel-booking-in-vcms"
-                ]
-              },
-              {
                 "group": "재고·요금",
                 "expanded": false,
                 "pages": [
@@ -151,6 +143,14 @@
                   "ko/faq/issue/vcloud-booking-not-synced",
                   "ko/faq/issue/overbooking",
                   "ko/faq/usage/booking-sync-free"
+                ]
+              },
+              {
+                "group": "사용 방법",
+                "expanded": false,
+                "pages": [
+                  "ko/faq/usage/use-on-mobile",
+                  "ko/faq/usage/cancel-booking-in-vcms"
                 ]
               },
               {
