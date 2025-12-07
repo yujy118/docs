@@ -112,7 +112,7 @@
             "groups": [
               {
                 "group": "재고·요금",
-                "expanded": false,
+                "expanded": true,
                 "pages": [
                   "ko/faq/usage/day-use-inventory-rate",
                   "ko/faq/inventory-rate/yanolja-hotdeal-goldclass",
