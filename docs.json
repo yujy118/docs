@@ -102,7 +102,7 @@
                 "pages": [
                   "ko/reference/terms-conditions",
                   "ko/reference/privacy-policy",
-                  "ko/reference/collection-personal-information"
+                  "ko/reference/personal-information-consent"
                 ]
               }
             ]
@@ -183,7 +183,7 @@
                 "pages": [
                   "en/reference/terms-conditions",
                   "en/reference/privacy-policy",
-                  "en/reference/collection-personal-information"
+                  "en/reference/personal-information-consent"
                 ]
               }
             ]
