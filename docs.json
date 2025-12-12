@@ -172,8 +172,16 @@
                 "pages": [
                   "ko/faq/account/verification-code-not-received"
                 ]
-              }
-            ]
+              },
+              {
+                "group": "Reference",
+                "expanded": true,
+                "pages": [
+                  "ko/reference/terms-conditions",
+                  "ko/reference/privacy-policy",
+                  "ko/reference/personal-information-consent"
+                ]
+              }            ]
           }
         ]
       },
