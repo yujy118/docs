@@ -115,7 +115,6 @@
                 "expanded": true,
                 "pages": [
                   "ko/faq/usage/day-use-inventory-rate",
-                  "ko/faq/inventory-rate/yanolja-hotdeal-goldclass",
                   "ko/faq/inventory-rate/bulk-edit-period-inventory",
                   "ko/faq/inventory-rate/bulk-period-rate-adjustment",
                   "ko/faq/inventory-rate/timetables",
@@ -132,7 +131,8 @@
                   "ko/faq/channels/channel-final-rate",
                   "ko/faq/channels/channel-inventory-rate-setting",
                   "ko/faq/channels/channels-commission-setting",
-                  "ko/faq/channels/max-sync-days"
+                  "ko/faq/channels/max-sync-days",
+                  "ko/faq/channels/yanolja-hotdeal-goldclass"
                 ]
               },
               {
