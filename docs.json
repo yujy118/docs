@@ -120,7 +120,8 @@
                   "ko/faq/inventory-rate/timetables",
                   "ko/faq/inventory-rate/change-room-count",
                   "ko/faq/inventory-rate/move-room-to-other-type",
-                  "ko/faq/inventory-rate/limit-inventory-by-channel"
+                  "ko/faq/inventory-rate/limit-inventory-by-channel",
+                  "ko/faq/daily-chek-in-out-time"
                 ]
               },
               {
@@ -180,8 +181,17 @@
                   "ko/reference/privacy-policy",
                   "ko/reference/personal-information-consent"
                 ]
-              }            ]
-          }
+              }            
+            ]
+          },
+          {
+            "tab": "업데이트 노트",
+                "group": "2025",
+                "expanded": true,
+                "pages": [
+                  "ko/release-notes/2025-12-23"
+            ]
+          } 
         ]
       },
       {
