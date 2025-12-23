@@ -186,10 +186,13 @@
           },
           {
             "tab": "업데이트 노트",
-                "group": "2025",
+            "groups": [
+               {"group": "2025",
                 "expanded": true,
                 "pages": [
                   "ko/release-notes/2025-12-23"
+                ]
+              }
             ]
           } 
         ]
