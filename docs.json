@@ -206,6 +206,18 @@
                 ]
               }
             ]
+          },
+          {
+            "tab": "검수 초안",
+            "groups": [
+              {
+                "group": "검수 초안",
+                "pages": [
+                  "ko/stories-drafts/venue-9b3bc849-objection_response",
+                  "ko/stories-drafts/venue-dcd8b75b-objection_response"
+                ]
+              }
+            ]
           }
         ]
       },
@@ -224,20 +236,6 @@
                   "en/reference/personal-information-consent"
                 ]
               }
-            ]
-          }
-        ]
-      }
-    ],
-    "tabs": [
-      {
-        "tab": "한국어",
-        "groups": [
-          {
-            "group": "검수 초안",
-            "pages": [
-              "ko/stories-drafts/venue-9b3bc849-objection_response",
-              "ko/stories-drafts/venue-dcd8b75b-objection_response"
             ]
           }
         ]
