@@ -21,6 +21,13 @@
             "tab": "사용자 가이드",
             "groups": [
               {
+                "group": "VCMS 활용",
+                "expanded": true,
+                "pages": [
+                  "ko/vcms-usage/index"
+                ]
+              },
+              {
                 "group": "숙박업소 관리",
                 "expanded": true,
                 "pages": [
