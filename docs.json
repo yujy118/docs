@@ -21,6 +21,13 @@
             "tab": "사용자 가이드",
             "groups": [
               {
+                "group": "VCMS 활용",
+                "expanded": true,
+                "pages": [
+                  "ko/vcms-usage/index"
+                ]
+              },
+              {
                 "group": "숙박업소 관리",
                 "expanded": true,
                 "pages": [
@@ -201,6 +208,18 @@
                 "expanded": true,
                 "pages": [
                   "ko/release-notes/2025-12-23"
+                ]
+              }
+            ]
+          },
+          {
+            "tab": "검수 초안",
+            "groups": [
+              {
+                "group": "검수 초안",
+                "pages": [
+                  "ko/stories-drafts/venue-9b3bc849-objection_response",
+                  "ko/stories-drafts/venue-dcd8b75b-objection_response"
                 ]
               }
             ]
