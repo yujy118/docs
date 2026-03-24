@@ -82,10 +82,75 @@
                     "group": "채널별 특이사항",
                     "expanded": false,
                     "pages": [
-                      "ko/channels/agoda",
-                      "ko/channels/tripdotcom",
-                      "ko/channels/naver",
-                      "ko/channels/airbnb"
+                      {
+                        "group": "여기어때",
+                        "pages": [
+                          "ko/channels/yeogiottae/account-and-sync",
+                          "ko/channels/yeogiottae/sajangnim-vs-partner",
+                          "ko/channels/yeogiottae/pricing-and-fees"
+                        ]
+                      },
+                      {
+                        "group": "네이버",
+                        "pages": [
+                          "ko/channels/naver/auth-and-calendar",
+                          "ko/channels/naver/pricing-and-direct-contract"
+                        ]
+                      },
+                      {
+                        "group": "아고다",
+                        "pages": [
+                          "ko/channels/agoda/net-rate-structure",
+                          "ko/channels/agoda/promotion-control"
+                        ]
+                      },
+                      {
+                        "group": "트립닷컴",
+                        "pages": [
+                          "ko/channels/tripdotcom/overview",
+                          "ko/channels/tripdotcom/agoda-mapping"
+                        ]
+                      },
+                      {
+                        "group": "야놀자",
+                        "pages": [
+                          "ko/channels/yanolja/sync-and-inventory",
+                          "ko/channels/yanolja/category-and-account",
+                          "ko/channels/yanolja/pricing-quirks"
+                        ]
+                      },
+                      {
+                        "group": "온다 플러스",
+                        "pages": [
+                          "ko/channels/onda/overview"
+                        ]
+                      },
+                      {
+                        "group": "떠나요닷컴",
+                        "pages": [
+                          "ko/channels/ddnayo/overview"
+                        ]
+                      },
+                      {
+                        "group": "꿀스테이",
+                        "pages": [
+                          "ko/channels/kkulstay/overview"
+                        ]
+                      },
+                      {
+                        "group": "트립비토즈",
+                        "pages": [
+                          "ko/channels/tripbtoz/overview"
+                        ]
+                      },
+                      {
+                        "group": "준비 중인 채널",
+                        "pages": [
+                          "ko/channels/bookingdotcom/under-construction",
+                          "ko/channels/expedia/under-construction",
+                          "ko/channels/airbnb/under-construction"
+                        ]
+                      }
                     ]
                   }
                 ]
